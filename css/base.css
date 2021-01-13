@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    border: 0;  /*ie6*/
+    vertical-align: middle;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    /* color: #666; */
+    text-decoration: none;
+}
+
+
+
+body {
+    background-color: #D7D7D7;
+    
+}
+
+button,
+input {
+    font-family: 'Microsoft YaHei', 'Heiti SC', tahoma, arial, 'Hiragino Sans GB', \\5B8B\4F53, sans-serif;
+    /*取消轮廓线 蓝色的*/
+    outline: none;
+}
